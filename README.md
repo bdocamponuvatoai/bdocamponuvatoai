@@ -26,6 +26,59 @@
 
 ### `$ whoami`
 
+<table>
+<tr>
+<td width="56" valign="middle"><img src="https://api.iconify.design/lucide/user-round.svg?color=%238B949E&width=28" alt="" /></td>
+<td valign="middle">
+<b>Hi, I'm Blair</b> — Website Developer at Nuvato AI.<br/>
+<sub>I lead website development and UI/UX at Nuvato AI — from first wireframe to production launch. I run our high-end client website builds end to end, working alongside a full engineering team, with Claude Code and Cursor at the core of how we ship.</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+### `$ cat team.yml`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<img src="https://api.iconify.design/lucide/pen-tool.svg?color=%238B949E&width=20" alt="" />&nbsp; <b>Website Development &amp; UI/UX</b> &nbsp;<sub><code>lead · Blair</code></sub><br/>
+<sub>Design systems, interfaces, and high-performance front-ends.</sub>
+</td>
+<td width="50%" valign="top">
+<img src="https://api.iconify.design/lucide/code-xml.svg?color=%238B949E&width=20" alt="" />&nbsp; <b>Full-Stack Engineering</b><br/>
+<sub>APIs, databases, auth, and payments behind every build.</sub>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<img src="https://api.iconify.design/lucide/cpu.svg?color=%238B949E&width=20" alt="" />&nbsp; <b>Software Engineering</b><br/>
+<sub>Custom platforms, portals, and internal tools built to scale.</sub>
+</td>
+<td valign="top">
+<img src="https://api.iconify.design/lucide/bot.svg?color=%238B949E&width=20" alt="" />&nbsp; <b>AI Automation</b><br/>
+<sub>Agents, LLM workflows, and automations that execute real work.</sub>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<img src="https://api.iconify.design/lucide/server.svg?color=%238B949E&width=20" alt="" />&nbsp; <b>DevOps</b><br/>
+<sub>CI/CD, infrastructure, edge deployment, and monitoring.</sub>
+</td>
+<td valign="top">
+<img src="https://api.iconify.design/lucide/settings-2.svg?color=%238B949E&width=20" alt="" />&nbsp; <b>IT Automation</b><br/>
+<sub>System integrations, provisioning, and operational workflows.</sub>
+</td>
+</tr>
+</table>
+
+<sub>One complete team — design, engineering, AI, and operations under one roof.</sub>
+
+<br/><br/>
+
+### `$ cat about/nuvato.md`
+
 **Nuvato AI** builds the systems businesses run on — from the website customers see to the internal platform teams work in. Designed, documented, automated, and maintained by one accountable partner.
 
 We start by mapping how the work actually happens, then build against a fixed, written scope. Every agent and automation runs inside the client's own permissions, with human approval gates on anything sensitive.
@@ -198,6 +251,25 @@ We start by mapping how the work actually happens, then build against a fixed, w
 </td>
 </tr>
 </table>
+
+<br/>
+
+### `$ ./build --high-end-website`
+
+<sub>How I lead every client website, from first call to launch and beyond.</sub>
+
+```
+  01  DISCOVER      brand, goals, users, competitors, content audit
+  02  STRATEGY      sitemap, user journeys, SEO / AEO / GEO plan
+  03  UX            wireframes, information architecture, flows
+  04  UI            high-fidelity design system + prototype in Figma
+  05  BUILD         Next.js · React · Tailwind · Supabase · CMS
+  06  POLISH        motion, micro-interactions, accessibility
+  07  HARDEN        performance, security headers, Core Web Vitals
+  08  QA            cross-device testing, client review, approval gate
+  09  LAUNCH        Vercel / Cloudflare deploy, analytics, monitoring
+  10  EVOLVE        maintenance, A/B testing, ongoing improvements
+```
 
 <br/>
 
